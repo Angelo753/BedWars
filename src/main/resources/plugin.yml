@@ -1,0 +1,4 @@
+name: AngelBedWars
+version: @version@
+main: me.angelo.angelbedwars.Main
+authors: [Angelo753]
